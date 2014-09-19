@@ -1,0 +1,38 @@
+/*
+Liz Buhager
+
+Blue- #0887ec
+Green- #1ab923
+Pink- #de8ea5
+*/
+
+
+a {
+    color: #0887ec;
+}
+
+h1 {
+    color: #0887ec;
+}
+
+.color1{
+    width: 200px;
+    height: 200px;
+    background-color: #0887ec;
+}
+
+.color2{
+    width: 200px;
+    height: 200px;
+    background-color: #1ab923;
+}
+
+.color3{
+    width: 200px;
+    height: 200px;
+    background-color: #de8ea5;
+}
+
+h2 {
+    color: #de8ea5;
+}
