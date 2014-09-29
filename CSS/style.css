@@ -36,3 +36,16 @@ h1 {
 h2 {
     color: #de8ea5;
 }
+
+header {
+    background-color: #dddddd;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+    text-align: center;
+        
+        }
+body{
+    background-color: antiquewhite;
+    font-family: sans-serif;
