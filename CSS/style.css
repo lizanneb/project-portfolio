@@ -14,23 +14,38 @@ a {
 h1 {
     color: #0887ec;
 }
+.colorsquare{
+    width: 100px;
+    height: 100px;
+    xfloat: left;
+}
 
 .color1{
-    width: 200px;
-    height: 200px;
     background-color: #0887ec;
 }
 
 .color2{
-    width: 200px;
-    height: 200px;
     background-color: #1ab923;
 }
 
 .color3{
-    width: 200px;
-    height: 200px;
     background-color: #de8ea5;
+}
+
+
+.clearfix:before,
+.clearfix:after {
+    content" ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+
+.colorwrapper{
+    background-color: black;
 }
 
 h2 {
@@ -49,3 +64,4 @@ header {
 body{
     background-color: antiquewhite;
     font-family: sans-serif;
+}
