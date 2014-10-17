@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    color: white;
+    font-family: font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    background-image: url('../images/parking-parking-lot-underground-garage-2996-825x550.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    font-size: 4em;
+}
+
+
