@@ -1,0 +1,48 @@
+body{
+    background-image: url('../images/brickwall.png');
+    background-color: #FDD7E4;
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+    font-size: 1em;
+    }  
+
+h1{
+    font-size: 4em;
+}
+
+h6{
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+    color: black;
+    font-size: .9em;
+    border-bottom-style: groove;
+    }
+
+h5{
+    color: black;
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+    font-size: 1.2em;
+    text-indent: 30px;
+}
+
+h2{
+    color: #E4287C;
+    font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;    
+    font-size: 3em;
+}
+
+h3{
+    font-size: 2em;
+    
+}
+
+h4{
+    color: #E45E9D;
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;  
+    font-size: 1.8em;
+    text-indent: 30px;
+}
+
+p, li{
+    font-size: 15px;
+     font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif; 
+    text-indent: 30px;
+}
