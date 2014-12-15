@@ -12,3 +12,12 @@ body {
   padding-top: 50px;
   padding-bottom: 20px;
 }
+
+
+th, td {
+                border: 1px solid #cecfd5;
+                border-color: pink;
+                padding: 10px 15px;
+                background-color: antiquewhite;
+                color: black;
+            }

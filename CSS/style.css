@@ -24,15 +24,19 @@ h1 {
 
 .color1{
     background-color: #0887ec;
+    float: left;
 }
 
 .color2{
     background-color: #1ab923;
+    float: left;
 }
 
 .color3{
     background-color: #de8ea5;
+    float: left;
 }
+
 
 
 .clearfix:before,
@@ -56,20 +60,39 @@ h2 {
 }
 
 header {
-    background-color: #dddddd;
-    width: 800px;
     margin-left: auto;
     margin-right: auto;
-    padding: 50px;
-    text-align: center;
+    text-align: left;
     font-family: 'Unkempt', cursive;
         
         }
 body{
     background-color: antiquewhite;
     font-family: sans-serif;
+    background-image: url('../images/upfeathers.png');
 }
 
+.main{
+    width: 70%;
+    float: left;
+    padding-bottom: 20%;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-style: solid;
+    border-color: maroon;
+    background-color: white;
+}
+
+.sidebar{
+    width:30%;
+    float: right;
+    padding-bottom: 32%;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-style: solid;
+    border-color: maroon;
+    background-color: white;
+}
 
 .navigation{
     list-style: none;
